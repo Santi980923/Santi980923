@@ -20,6 +20,20 @@ With an academic background in **Electronic Engineering**, a **Specialization in
 
 ---
 
+### 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santi980923&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Santiago's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santi980923&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santi980923&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+
 ### 🧰 Tech Stack & Ecosystem
 
 #### **Data Analysis & Business Intelligence**
